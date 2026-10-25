@@ -1,4 +1,4 @@
-***Pandas and Polars:**
+**Pandas and Polars:**
 
 A comparative study of Pandas and Polars for data manipulation in Python, using a real-world retail transaction dataset. This project evaluates execution time, memory efficiency, and usability through practical data-processing operations and visualizations.
 
